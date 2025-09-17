@@ -9,5 +9,5 @@ import { DocusealBuilderComponent } from '@docuseal/angular';
   styles: ['']
 })
 export class FormBuilderComponent {
-  token = 'PUT_TOKEN_HERE';
+  token = 'PUT_JWT_HERE';
 }
